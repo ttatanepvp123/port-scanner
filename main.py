@@ -16,7 +16,7 @@ service_list = [
     "118", "sql",
     "135", "Microsoft EPMAP",
     "443", "http(s)",
-    "445", "Microsoft-DS Active Directory / Microsoft-DS SMB"
+    "445", "Microsoft-DS Active Directory / Microsoft-DS SMB",
     "8080", "http(s)",
     "9418", "git",
     "19132", "Minecraft Bedrock Server",
