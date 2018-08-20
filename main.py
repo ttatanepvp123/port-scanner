@@ -17,6 +17,8 @@ service_list = [
     "135", "Microsoft EPMAP",
     "443", "http(s)",
     "445", "Microsoft-DS Active Directory / Microsoft-DS SMB",
+    "3389", "Remote Desktop Protocol",
+    "5900", "vnc",
     "8080", "http(s)",
     "9418", "git",
     "19132", "Minecraft Bedrock Server",
